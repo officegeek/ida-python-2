@@ -19,3 +19,8 @@ Python gør det nemt at udarbejde automatiserings scripts, arbejde med data scie
 - [Databaser](./databaser.md)
 - [Funktioner](./funktioner.md)
 - [Objektorienteret Programmering](./oop.md)
+
+### Demo Python
+ - [Ugedag 1](./code/ugedag_1.py)
+ - [Ugedag 2](./code/ugedag_2.py)
+ - [Links](./code/demolinks.py)
