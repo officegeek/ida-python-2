@@ -8,16 +8,17 @@ Python gør det nemt at udarbejde automatiserings scripts, arbejde med data scie
 ## Agenda
 - Introduktion til Visual Studio Code
 - Kontrolstrukturer
+- Funktioner
 - Forbindelse til databaser
-- Datahåndtering - data Science
+- Datahåndtering - Data Science
 - Klasser og Objekter
 - Fejl håndtering
 
 ## Indhold
 - [Visual Studio Code - IDE](./vsc.md)
-- []()
-- [Databaser](./databaser.md)
+- [Kontrolstrukturer](./kontrolstrukturer.md)
 - [Funktioner](./funktioner.md)
+- [Databaser](./databaser.md)
 - [Objektorienteret Programmering](./oop.md)
 
 ### Demo kode
