@@ -26,3 +26,6 @@ Vi vil gerne tilføje noget funktionalitet når en medarbejder gør noget, eller
 Ved at oprette en **medarbejderklasse** kan du gemme alle disse data og udføre funktioner på hver medarbejder. Du kan genbruge den samme *funktionalitet* igen og igen.
 
 Måden dette gøres på er ved at oprette klasser, der bruges som tegninger til objekter. Klassen beskrev overordnet hvad objektet vil men, men er adskilt fra selve objektet, som er en specifik instans.
+
+
+dsfdf
