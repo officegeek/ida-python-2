@@ -1,8 +1,7 @@
 # Imports
-# Plotly
 import plotly.express as px
 
-# Brug datamodel
+# Brug/Access datamodel
 import datamodel
 
 # Hent data
@@ -13,11 +12,10 @@ df_Product_Sale = datamodel.get_product_sales()
 print(df_Employees)
 print(df_Product_Sale.head())
 
-# Diagram - Employee Sales
+# Diagram - Employee Sales - Plotly
 fig_product_sale = px.histogram(df_Product_Sale, 
     x='ProductName', y='Order_Total', barmode='group',
     color='Order_Month', title='Salg pr. produkt')
-
 
 # Export til Excel
 df_Employees.to_excel('./Employees.xlsx', index = False)

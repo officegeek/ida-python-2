@@ -24,7 +24,6 @@ def connect():
     finally:
         db_conn.dispose() # Luk forbindelsen
 
-
 # Employees
 def get_employees():
     conn = connect()
