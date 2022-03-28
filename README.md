@@ -13,6 +13,7 @@ Python gør det nemt at udarbejde automatiserings scripts, arbejde med data scie
 - Datahåndtering - Data Science
 - Klasser og Objekter
 - Fejl håndtering
+- Dash demo
 
 ## Indhold
 - [Visual Studio Code - IDE](./vsc.md)
@@ -20,6 +21,7 @@ Python gør det nemt at udarbejde automatiserings scripts, arbejde med data scie
 - [Funktioner](./funktioner.md)
 - [Databaser](./databaser.md)
 - [Objektorienteret Programmering](./oop.md)
+- [Dash demo](./dash_demo.md)
 
 ### Demo kode
  - [Ugedag 1](./code/ugedag_1.py)
